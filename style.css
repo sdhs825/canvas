@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+#myCanvas{
+    border:2px solid black;
+    color:white;
+}
+
+.canvas{
+    margin-top: 1.5%;
+    text-align: center;
+
+}
+
+.btn{
+    background-color: #cf3f14; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius:5px;
+}
